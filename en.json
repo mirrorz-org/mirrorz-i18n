@@ -67,5 +67,12 @@
     "years": "years"
   },
   "404_prompt": "Navigate with the sidebar",
-  "mirrors_prompt": "Filter (Support regex)"
+  "mirrors_prompt": "Filter (Support regex)",
+  "index": {
+    "javascript": "You need javascript to view this page properly.",
+    "legacy_page_prompt_pre": "Or you may use the ",
+    "legacy_page_prompt_post": "",
+    "legacy_page": "legacy page",
+    "loading": "Loading..."
+  }
 }
