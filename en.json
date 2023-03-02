@@ -39,6 +39,7 @@
   },
   "status": {
     "S": "Success",
+    "D": "Pending",
     "Y": "Syncing",
     "F": "Failed",
     "P": "Paused",
