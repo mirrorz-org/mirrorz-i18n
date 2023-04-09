@@ -78,5 +78,10 @@
     "legacy_page_prompt_post": "",
     "legacy_page": "静态网页",
     "loading": "加载中"
+  },
+  "tag": {
+    "mask": "相邻子网",
+    "isp": "相同运营商",
+    "geo": "地理较近"
   }
 }

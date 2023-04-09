@@ -78,5 +78,10 @@
     "legacy_page_prompt_post": "",
     "legacy_page": "legacy page",
     "loading": "Loading..."
+  },
+  "tag": {
+    "mask": "Similar Network",
+    "isp": "Same ISP",
+    "geo": "Geographically Close"
   }
 }
