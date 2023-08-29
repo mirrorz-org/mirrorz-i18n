@@ -83,5 +83,6 @@
     "mask": "Similar Network",
     "isp": "Same ISP",
     "geo": "Geographically Close"
-  }
+  },
+  "help": "Help"
 }
