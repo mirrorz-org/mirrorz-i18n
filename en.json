@@ -30,7 +30,7 @@
     "valid_urls": "The following urls are all valid.",
     "legacy": "The following urls are for static webpage, you can use w3m/lynx to view them",
     "legacy_usage": "More usage of static webpage is documented in the above url",
-    "speedtest": "Use the below script for speed test!",
+    "speedtest": "Use the below script for speed test (requires python3 and curl)!",
     "302_js": "Experimental Feature: 302 Backend",
     "302_go": "302 Backend",
     "302_go_more": "Check help for mirrors for usage",
